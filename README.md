@@ -83,14 +83,12 @@ The ladder logic program for this project includes the following main components
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/a958ced0-7be8-4a23-9588-f6bdde442345)
 
-![image](https://github.com/user-attachments/assets/9a14d7e8-5e3e-4bef-95b1-ad835c93a5d7)
+![image](https://github.com/user-attachments/assets/066deccf-2cda-4ee7-ad05-c824d4f37c2e)
 
-![image](https://github.com/user-attachments/assets/7a84b526-ebf3-4eaf-83af-0833bc32e413)
+![image](https://github.com/user-attachments/assets/4369ece1-6a28-43e3-b0fa-bb13377a017d)
 
-![image](https://github.com/user-attachments/assets/d39afe09-070b-44ab-8195-8fe1665dfa22)
+![image](https://github.com/user-attachments/assets/34226845-152c-4101-b4f4-207b9bfa60f3)
 
-![image](https://github.com/user-attachments/assets/151cda0f-fb7c-404c-952c-c05b09fa594b)
-
-![image](https://github.com/user-attachments/assets/cb84daae-9330-4491-8ade-744cd0f71c36)
 
